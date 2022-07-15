@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ee4360c4-6f25-4eca-a758-c3573b9e4f53}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{42452269-8303-4242-9bd4-60267d36ce90}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{d90df7ce-fa58-453d-9dba-90cdf6b61b3d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tetris3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tetris3.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1PLAY.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="2PLAY.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap10.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap11.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap23.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap5.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap8.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bitmap9.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bmp00001.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bmp00002.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\원피스\포맷변환_1b2f4d8fb4488f406d099551c30e3d71.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="포맷변환_5047.tistory.com-one-piece.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="포맷변환_thumb_big_hd_bd594d15c9701ea89db6cf57323f55bc.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="f.wav" />
+    <None Include="내림.wav" />
+    <None Include="이동.wav" />
+    <None Include="제거.wav" />
+    <None Include="회전.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

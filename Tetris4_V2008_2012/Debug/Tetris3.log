@@ -1,0 +1,28 @@
+﻿빌드 시작: 2015-12-15 오후 2:18:40
+     1>2 노드의 "D:\Tetris4_V2008_2012 (1)\Tetris3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         ".\Debug\Tetris3.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0412" /nologo /fo".\Debug\Tetris3.res" Tetris3.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\Tetris3.exe.embed.manifest.res" .\Debug\Tetris3_manifest.rc 
+       Link:
+         C:\Users\은비\Downloads\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/Tetris3.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\Tetris3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/Tetris3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\Tetris3.lib" /MACHINE:X86 .\Debug\Tetris3.res
+         .\Debug\Tetris3.exe.embed.manifest.res
+         .\Debug/Tetris3.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\Tetris3.exe.embed.manifest" /manifest .\Debug\Tetris3.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         Tetris3.vcxproj -> D:\Tetris4_V2008_2012 (1)\.\Debug\Tetris3.exe
+       FinalizeBuildStatus:
+         ".\Debug\Tetris3.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         ".\Debug\Tetris3.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\Tetris4_V2008_2012 (1)\Tetris3.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:59.21
